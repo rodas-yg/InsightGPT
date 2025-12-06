@@ -1,0 +1,5 @@
+order_id,customer_age,region,product,price,quantity,discount,total_spend,satisfaction_score
+1001,25,East,Laptop,1200,1,0.10,1080,4
+1002,34,West,Phone,800,2,0.05,1520,5
+1003,45,East,Tablet,600,1,,600,3
+1004,29,South,Phone,800,3,0.15,2040,4
