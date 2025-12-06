@@ -52,3 +52,4 @@ InsightGPT/
 │   └── static/                 # Frontend static assets
 └── instance/
     └── uploads/             # Uploaded CSV files (runtime data)
+
