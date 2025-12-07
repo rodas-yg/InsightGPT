@@ -36,7 +36,7 @@ InsightGPT/
 ├── config.py               # Global configuration (paths, settings)
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
-├── .gitignore              # Ignored files
+├── .gitignore              # Ignored files (like API KEY)
 ├── app/
 │   ├── __init__.py         # Flask app factory
 │   ├── routes.py           # Web routes and request handlers
